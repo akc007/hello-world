@@ -1,0 +1,13 @@
+<! DOCTYPE HTML>
+<html>
+<head>
+<title>First Github Project in HTML</title>
+</head>
+<body>
+<div>
+<p>The title of the Project</p>
+<br>
+This is the project body. This file is just the beginning of the GITHUB tutorial.
+</div>
+</body>
+</html>
